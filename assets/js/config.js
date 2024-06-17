@@ -1,20 +1,8 @@
 const BADGES = [
   {
-    name: "HypeSquad Bravery", // Message that will appear when hovering over the badge
-    image: "assets/badges/hypesquad_bravery.svg",
-  },
-  {
-    name: "Subscriber since Jun 29, 2022",
-    image: "assets/badges/nitro.svg",
-  },
-  {
-    name: "Server boosting Jun 29, 2022",
-    image: "assets/badges/boost.svg",
-  },
-  {
     name: "Not The Best Dev But Im the best friend for you", // Message that appears when you hover over it
     image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
-  },
+  }
 ];
 
 const USER_ID = "1179227524849475655"; // Your Discord Id Here | You need to join Lanyard Discord for it to work! [https://discord.gg/z2xW3zxYdt]
