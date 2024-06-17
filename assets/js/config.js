@@ -12,7 +12,7 @@ const BADGES = [
     image: "assets/badges/boost.svg",
   },
   {
-    name: "That's an example! Change in config.js", // Message that appears when you hover over it
+    name: "Not The Best Dev But Im the best friend for you", // Message that appears when you hover over it
     image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
   },
 ];
